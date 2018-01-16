@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon Detectiive Prototype", "Dungeon Detectiive Prototype.csproj", "{CEAA3719-1B47-3E01-2B73-9ED897D2640F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAA3719-1B47-3E01-2B73-9ED897D2640F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAA3719-1B47-3E01-2B73-9ED897D2640F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAA3719-1B47-3E01-2B73-9ED897D2640F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAA3719-1B47-3E01-2B73-9ED897D2640F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

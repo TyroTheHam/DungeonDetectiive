@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 3b15d2fa682351644bef37a599e80aeb
+timeCreated: 1513629928
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature
+    100002: base
+    100004: body.002
+    100006: chest
+    100008: collar.l
+    100010: collar.r
+    100012: f1a.l
+    100014: f1a.r
+    100016: f1b.l
+    100018: f1b.r
+    100020: f1c.l
+    100022: f1c.l_end
+    100024: f1c.r
+    100026: f1c.r_end
+    100028: f2a.l
+    100030: f2a.r
+    100032: f2b.l
+    100034: f2b.r
+    100036: f2c.l
+    100038: f2c.l_end
+    100040: f2c.r
+    100042: f2c.r_end
+    100044: f3a.l
+    100046: f3a.r
+    100048: f3b.l
+    100050: f3b.r
+    100052: f3c.l
+    100054: f3c.l_end
+    100056: f3c.r
+    100058: f3c.r_end
+    100060: f4a.l
+    100062: f4a.r
+    100064: f4b.l
+    100066: f4b.r
+    100068: f4c.l
+    100070: f4c.l_end
+    100072: f4c.r
+    100074: f4c.r_end
+    100076: foot.l
+    100078: foot.r
+    100080: head
+    100082: head_end
+    100084: Hemi
+    100086: ik-leg.l
+    100088: ik-leg.r
+    100090: knee.l
+    100092: knee.l_end
+    100094: knee.r
+    100096: knee.r_end
+    100098: lowerarm.l
+    100100: lowerarm.r
+    100102: lowerleg.l
+    100104: lowerleg.r
+    100106: //RootNode
+    100108: neck
+    100110: palm.l
+    100112: palm.r
+    100114: pelvis
+    100116: root
+    100118: stomach
+    100120: ta.l
+    100122: ta.r
+    100124: tb.l
+    100126: tb.r
+    100128: tc.l
+    100130: tc.l_end
+    100132: tc.r
+    100134: tc.r_end
+    100136: thigh.l
+    100138: thigh.r
+    100140: toe.l
+    100142: toe.l_end
+    100144: toe.r
+    100146: toe.r_end
+    100148: upperarm.l
+    100150: upperarm.r
+    400000: Armature
+    400002: base
+    400004: body.002
+    400006: chest
+    400008: collar.l
+    400010: collar.r
+    400012: f1a.l
+    400014: f1a.r
+    400016: f1b.l
+    400018: f1b.r
+    400020: f1c.l
+    400022: f1c.l_end
+    400024: f1c.r
+    400026: f1c.r_end
+    400028: f2a.l
+    400030: f2a.r
+    400032: f2b.l
+    400034: f2b.r
+    400036: f2c.l
+    400038: f2c.l_end
+    400040: f2c.r
+    400042: f2c.r_end
+    400044: f3a.l
+    400046: f3a.r
+    400048: f3b.l
+    400050: f3b.r
+    400052: f3c.l
+    400054: f3c.l_end
+    400056: f3c.r
+    400058: f3c.r_end
+    400060: f4a.l
+    400062: f4a.r
+    400064: f4b.l
+    400066: f4b.r
+    400068: f4c.l
+    400070: f4c.l_end
+    400072: f4c.r
+    400074: f4c.r_end
+    400076: foot.l
+    400078: foot.r
+    400080: head
+    400082: head_end
+    400084: Hemi
+    400086: ik-leg.l
+    400088: ik-leg.r
+    400090: knee.l
+    400092: knee.l_end
+    400094: knee.r
+    400096: knee.r_end
+    400098: lowerarm.l
+    400100: lowerarm.r
+    400102: lowerleg.l
+    400104: lowerleg.r
+    400106: //RootNode
+    400108: neck
+    400110: palm.l
+    400112: palm.r
+    400114: pelvis
+    400116: root
+    400118: stomach
+    400120: ta.l
+    400122: ta.r
+    400124: tb.l
+    400126: tb.r
+    400128: tc.l
+    400130: tc.l_end
+    400132: tc.r
+    400134: tc.r_end
+    400136: thigh.l
+    400138: thigh.r
+    400140: toe.l
+    400142: toe.l_end
+    400144: toe.r
+    400146: toe.r_end
+    400148: upperarm.l
+    400150: upperarm.r
+    4300000: body.002
+    9500000: //RootNode
+    10800000: Hemi
+    13700000: body.002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
